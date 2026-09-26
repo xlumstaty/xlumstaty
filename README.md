@@ -3,4 +3,8 @@
 Welcome to the official GitHub page of XLUMSTATY.
 Where the creativity is endless for me
 
-<img src="https://skillicons.dev/icons?i=ubuntu,debian,kali,windows,raspberrypi" />
+##OS I use
+<img src="https://skillicons.dev/icons?i=windows" />
+
+##VPS use
+<img src="https://skillicons.dev/icons?i=ubuntu" />
