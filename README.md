@@ -10,4 +10,4 @@ Where the creativity is endless for me
 <img src="https://skillicons.dev/icons?i=windows,linux" />
 
 ## VPS use
-<img src="https://skillicons.dev/icons?i=ubuntu" />
+<img src="https://skillicons.dev/icons?i=nginx" />
