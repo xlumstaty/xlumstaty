@@ -9,5 +9,5 @@ Where the creativity is endless for me
 ## OS I use
 <img src="https://skillicons.dev/icons?i=windows,linux" />
 
-## VPS use
-<img src="https://skillicons.dev/icons?i=nginx" />
+## Web Servers
+<img src="https://skillicons.dev/icons?i=nginx,apache,onelitespeed" />
