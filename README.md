@@ -10,4 +10,4 @@ Where the creativity is endless for me
 <img src="https://skillicons.dev/icons?i=windows,linux" />
 
 ## Web Servers
-<img src="https://skillicons.dev/icons?i=nginx,apache2,litespeed" />
+<img src="https://skillicons.dev/icons?i=nginx" />
