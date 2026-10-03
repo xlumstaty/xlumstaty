@@ -7,7 +7,7 @@ Where the creativity is endless for me
 <a href="https://xlumstaty.site">xlumstaty.site</a>
 
 ## OS I use
-<img src="https://skillicons.dev/icons?i=windows,cent-os" />
+<img src="https://skillicons.dev/icons?i=windows,linux" />
 
 ## VPS use
 <img src="https://skillicons.dev/icons?i=ubuntu" />
